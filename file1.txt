@@ -1,0 +1,1 @@
+This is a session to demo git stash.
